@@ -1,0 +1,6 @@
+from .listagem_id_controller import listagem_id_controller
+from .atualizar_controller import atualizar_controller
+from .listagem_controller import listagem_controller
+from .deletar_controller import deletar_controller
+from .criar_controller import criar_controller
+from .router import router
